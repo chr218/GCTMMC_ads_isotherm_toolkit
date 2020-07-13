@@ -1,0 +1,27 @@
+# className WLTMMC
+# rstFileSpace tmp/rstspace
+# rstFilePair tmp/rstpair
+# rstFileCriteria tmp/rstcriteria
+# nTrials 4
+# rstFileTrial0 tmp/rsttrial0
+# trialWeight0 0.4
+# rstFileTrial1 tmp/rsttrial1
+# trialWeight1 0.4
+# rstFileTrial2 tmp/rsttrial2
+# trialWeight2 0.1
+# rstFileTrial3 tmp/rsttrial3
+# trialWeight3 0.1
+# nAttempts 488900000
+# logFileName log
+# nFreqLog 100000
+# nFreqXTC 0
+# XTCFileName 
+# nFreqCheckE 100000
+# nFreqTune 100000
+# nFreqRestart 100000
+# checkEtol 2e-07
+# prodFileAppend _prod
+# colMatFileName colMat
+# nFreqColMat 100000
+# densThresConfigBias 0
+# procFileAppend _core

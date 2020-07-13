@@ -1,0 +1,15 @@
+# className PairLJCoulEwald
+# lrcFlag 0
+# rCut 10
+# nDataFiles 3
+# DATAFILE0 /work/06037/tg853369/stampede2/feasst/src//../forcefield/data.trappe_parameters_50
+# DATAFILE1 /work/06037/tg853369/stampede2/feasst/src//../forcefield/data.O
+# DATAFILE2 /work/06037/tg853369/stampede2/feasst/src//../forcefield/data.Si
+# atomCut 0
+# skipEPS0 0
+# k2max 27
+# alpha 5.6
+# nCharges 3
+# qCharge0 0
+# qCharge1 -27.95553523624347
+# qCharge2 55.911070472486941
